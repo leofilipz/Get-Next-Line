@@ -24,12 +24,3 @@ Run the following commands:
 	- `make fclean`
 * To re-compile:
 	- `make re`
-
-### Executing
-
-To test the function, compile with main.c.
-
-`gcc main.c src/get_next_line.c`
-
-create a .txt file
-`./a.out your .txt file`
